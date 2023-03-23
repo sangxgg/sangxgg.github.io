@@ -1,1 +1,3 @@
-# sangxgg.github.io
+# ning
+- 我的个人博客
+- 记录我的一些个人随想
